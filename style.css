@@ -30,8 +30,8 @@ body {
   z-index: 20; 
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   animation: float 6s ease-in-out infinite;
-  font-family: 'Dancing Script', cursive;
-  font-size: 5rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 6vw;
 }
 
 @keyframes float {
