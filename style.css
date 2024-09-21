@@ -35,13 +35,13 @@ body {
 }
 @media (max-width: 768px) {
   .greeting {
-    font-size: 8rem; /* Tamaño para pantallas medianas como iPhone 8 */
+    font-size: 5rem; /* Tamaño para pantallas medianas como iPhone 8 */
   }
 }
 
 @media (max-width: 375px) { /* iPhone SE / iPhone 6/7/8 */
   .greeting {
-    font-size: 8rem; /* Tamaño para pantallas pequeñas */
+    font-size: 5rem; /* Tamaño para pantallas pequeñas */
   }
 }
 
