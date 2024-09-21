@@ -31,17 +31,17 @@ body {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   animation: float 6s ease-in-out infinite;
   font-family: 'Dancing Script', cursive;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 @media (max-width: 768px) {
   .greeting {
-    font-size: 2rem; /* Tamaño para pantallas medianas como iPhone 8 */
+    font-size: 4rem; /* Tamaño para pantallas medianas como iPhone 8 */
   }
 }
 
 @media (max-width: 375px) { /* iPhone SE / iPhone 6/7/8 */
   .greeting {
-    font-size: 2rem; /* Tamaño para pantallas pequeñas */
+    font-size: 4rem; /* Tamaño para pantallas pequeñas */
   }
 }
 
